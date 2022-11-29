@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuliah/Semester 5/Pemrograman Berbasis Platform/Guided/GD13_A_10627/app/src/main/res/layout/activity_add_edit.xml" value="0.25" />
+        <entry key="..\:/Kuliah/Semester 5/Pemrograman Berbasis Platform/Guided/GD13_A_10627/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Kuliah/Semester 5/Pemrograman Berbasis Platform/Guided/GD13_A_10627/app/src/main/res/layout/item_list.xml" value="0.25" />
+        <entry key="..\:/Kuliah/Semester 5/Pemrograman Berbasis Platform/Guided/GD13_A_10627/app/src/main/res/layout/item_mahasiswa.xml" value="0.25" />
+        <entry key="..\:/Kuliah/Semester 5/Pemrograman Berbasis Platform/Guided/GD8_A_10627/app/src/main/res/layout/activity_add_edit.xml" value="0.176" />
+        <entry key="..\:/Kuliah/Semester 5/Pemrograman Berbasis Platform/Guided/GD8_A_10627/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Kuliah/Semester 5/Pemrograman Berbasis Platform/Guided/GD8_A_10627/app/src/main/res/layout/item_list.xml" value="0.10400000000000001" />
+        <entry key="..\:/Kuliah/Semester 5/Pemrograman Berbasis Platform/Guided/GD8_A_10627/app/src/main/res/layout/item_mahasiswa.xml" value="0.264" />
+        <entry key="..\:/Kuliah/Semester 5/Pemrograman Berbasis Platform/Guided/GD8_A_10627/app/src/main/res/layout/layout_loading.xml" value="0.136" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
